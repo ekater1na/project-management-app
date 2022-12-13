@@ -1,8 +1,8 @@
 
 # Project Management System
 
-- Frontend Deploy: [Netlify](https://pro-pm-app.netlify.app/).
-- Backend Deploy: [Railway](https://pm-app-back-production.up.railway.app).
+- Frontend Deploy: [Netlify](https://pm-guru.netlify.app/).
+- Backend Deploy: [Railway](https://pm-guru.up.railway.app/).
 
 ## Prerequisites
 
@@ -12,13 +12,12 @@
 ## Downloading
 
 ```
-git clone https://github.com/Gnomepman/project-management-app.git
+git clone https://github.com/ekater1na/project-management-app.git
 ```
 
 ## Installing NPM modules
 
 ```
-git checkout develop
 npm install
 ```
 
